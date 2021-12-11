@@ -39,7 +39,7 @@ switch (process.argv[2]) {
 
         break;
     default:
-        console.error("Argüman belirtmediniz!");
+        console.error("You don't specified argument!");
         break;
 }
 
