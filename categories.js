@@ -1,7 +1,6 @@
 let path = require('path');
 
-module.exports = {
-    /*
+module.exports = {    
     ceiling_light:{
         free_url: 'https://3dsky.org/3dmodels/category/lustri?style=all&order=free',
         pro_url: 'https://3dsky.org/3dmodels/category/lustri?style=all&order=profi',
@@ -135,7 +134,7 @@ module.exports = {
         free_url: 'https://3dsky.org/3dmodels/category/drugaya_magkaya_mebel?style=all&order=free',
         pro_url: 'https://3dsky.org/3dmodels/category/drugaya_magkaya_mebel?style=all&order=profi',
         file: path.resolve('pages/other_soft_seating.json'),
-    },*/
+    },
     sideboard: {
         free_url: 'https://3dsky.org/3dmodels/category/tubi_komodi?style=all&order=free',
         pro_url: 'https://3dsky.org/3dmodels/category/tubi_komodi?style=all&order=profi',
