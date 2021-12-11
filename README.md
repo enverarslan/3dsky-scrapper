@@ -1,2 +1,2 @@
 # 3dsky-scrapper
-3D models images scrapper on https://3dsky.org
+Images scrapper for 3D models in https://3dsky.org
